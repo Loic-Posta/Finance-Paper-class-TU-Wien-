@@ -15,7 +15,7 @@ The paper explores the "Connectivity Paradox": why financial networks are **robu
 - **Policy Implications:** Structural insights into capital buffers and systemic resilience.
 
 ## 📂 Repository Structure
-- `Kapadia_Contagion_Analysis_TUWien.pdf`: The complete final document.
+- `FROM_THE_GAI_KAPADIA_MODEL_TO_IT_S_EMPIRICAL_VERIFICATION___Loïc.pdf`: The complete final document.
 - `/src`: LaTeX source files, including `.tex` and `.bib` bibliography.
 
 ## 💡 Skills Demonstrated
