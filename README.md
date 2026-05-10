@@ -1,15 +1,27 @@
-# Analyse du modèle Gai Kapadia
+# Financial Contagion & Network Topology: An Analysis of the Gai-Kapadia Model
 
-Ce dépôt contient mon travail de recherche sur le modèle de Gai Kapadia, réalisé dans le cadre de mon cursus à la **TU Wien**.
+This repository contains my research paper on **Systemic Risk** and **Financial Networks**, developed during my studies at **TU Wien**. The work focuses on the mathematical modeling of how local bank failures propagate through interbank networks.
 
-## 📄 Document final
-Vous pouvez consulter ou télécharger le papier au format PDF ici :
-👉 **[Télécharger le PDF](./votre_nom_de_fichier.pdf)**
+## 📄 Final Paper (PDF)
+👉 **[Click here to view the Full Report](./Kapadia_Contagion_Analysis_TUWien.pdf)** ---
 
-## 🛠️ Détails techniques
-- **Formatage :** Écrit en LaTeX.
-- **Contenu :** Le code source se trouve dans le dossier `/src`.
-- **Thématiques :** Risque Systémique, Network theory 
+## 🎯 Executive Summary
+The paper explores the "Connectivity Paradox": why financial networks are **robust yet fragile**. Using **Graph Theory** and **Statistical Physics**, I analyze the Gai-Kapadia model to understand how network topology influences systemic stability. A key focus is the transition from **Mediocristan** (Gaussian shocks) to **Extremistan** (Power-Law distributions), highlighting why traditional risk models often fail during "Black Swan" events.
+
+## 🛠️ Key Technical Concepts
+- **Network & Graph Theory:** Modeling interbank interdependence and degree distributions.
+- **The Gai-Kapadia Model:** Analysis of the "Knife-Edge" property and phase transitions in financial systems.
+- **Statistical Distributions:** Comparative study of Gaussian vs. Power-Law (fat-tailed) regimes.
+- **Policy Implications:** Structural insights into capital buffers and systemic resilience.
+
+## 📂 Repository Structure
+- `Kapadia_Contagion_Analysis_TUWien.pdf`: The complete final document.
+- `/src`: LaTeX source files, including `.tex` and `.bib` bibliography.
+
+## 💡 Skills Demonstrated
+- **Mathematical Modeling:** Non-linear dynamics and self-consistency equations.
+- **Risk Analysis:** Deep understanding of systemic risk and structural convergence.
+- **Technical Writing:** Advanced **LaTeX** formatting and complex data synthesis.
 
 ---
-*Ce projet a été réalisé par Loïc Posta.*
+*Author: [Ton Nom]* *Institution: TU Wien*
