@@ -3,7 +3,7 @@
 This repository contains my research paper on **Systemic Risk** and **Financial Networks**, developed during my studies at **TU Wien**. The work focuses on the mathematical modeling of how local bank failures propagate through interbank networks.
 
 ## 📄 Final Paper (PDF)
-👉 **[Click here to view the Full Report](./FROM_THE_GAI_KAPADIA_MODEL_TO_IT_S_EMPIRICAL_VERIFICATION___Loïc.pdf)** ---
+👉 **[Click here to view the Full Report](./src/FROM_THE_GAI_KAPADIA_MODEL_TO_IT_S_EMPIRICAL_VERIFICATION___Loïc.pdf)** ---
 
 ## 🎯 Executive Summary
 The paper explores the "Connectivity Paradox": why financial networks are **robust yet fragile**. Using **Graph Theory** and **Statistical Physics**, I analyze the Gai-Kapadia model to understand how network topology influences systemic stability. A key focus is the transition from **Mediocristan** (Gaussian shocks) to **Extremistan** (Power-Law distributions), highlighting why traditional risk models often fail during "Black Swan" events.
