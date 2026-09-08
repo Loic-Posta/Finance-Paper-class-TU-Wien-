@@ -24,4 +24,4 @@ The paper explores the "Connectivity Paradox": why financial networks are **robu
 - **Technical Writing:** Advanced **LaTeX** formatting and complex data synthesis.
 
 ---
-*Author: [Ton Nom]* *Institution: TU Wien*
+*Author: Loïc Posta* *Institution: TU Wien*
